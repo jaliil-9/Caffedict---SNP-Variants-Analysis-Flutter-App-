@@ -43,7 +43,7 @@ You can download the app and try it from this [Drive Link](https://drive.google.
   <img src="https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/assets/app_screenshots/get_started/intro_1.jpg" alt="Slide 1" width="150">
   <img src="https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/assets/app_screenshots/get_started/intro_2.jpg" alt="Slide 2" width="150">
   <img src="https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/assets/app_screenshots/get_started/intro_3.jpg" alt="Slide 3" width="150">
-  <img src="https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/assets/app_screenshots/get_started/intro_sample_result.jpg" alt="Demo Sample Analysis" width="150">
+  <img src="https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/assets/app_screenshots/guest_login_profile/locked_feature.jpg" alt="Demo Sample Analysis" width="150">
 </div>
 
 </details>
@@ -76,7 +76,7 @@ You can download the app and try it from this [Drive Link](https://drive.google.
 
 <div align="center">
   <img src="https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/assets/app_screenshots/guest_login_profile/guest_profile.jpg" alt="Guest User Profile" width="150">
-  <img src="https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/assets/app_screenshots/guest_login_profile/locked_feature.jpg" alt="Guest Locked Feature" width="150">
+  <img src="https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/assets/app_screenshots/get_started/intro_sample_result.jpg" alt="Guest Locked Feature" width="150">
 </div>
 
 </details>
