@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"caffedict-gauth","appId":"1:667007354691:android:b06f7bdd69b16da85651f6","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"caffedict-gauth","configurations":{"android":"1:667007354691:android:b06f7bdd69b16da85651f6","ios":"1:667007354691:ios:ff28b9025ffbd0d95651f6"}}}}}}

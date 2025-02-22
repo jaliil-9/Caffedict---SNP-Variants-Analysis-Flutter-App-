@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667007354691",
+    "project_id": "caffedict-gauth",
+    "storage_bucket": "caffedict-gauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667007354691:android:b06f7bdd69b16da85651f6",
+        "android_client_info": {
+          "package_name": "com.example.caffedict"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_knxJoxxsEV0stOaKYeqBakFBsbMbHBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
