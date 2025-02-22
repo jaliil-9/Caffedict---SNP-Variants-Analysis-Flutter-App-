@@ -172,9 +172,9 @@ For detailed documentation, please see:
 ## Sample Files
 
 To test the app's features, a folder containing 3 `.vcf` files for different genes is available:
-- `samples/CYP1A2.vcf`
-- `samples/AHR.vcf`
-- `samples/ADORA2A.vcf`
+- [`samples/CYP1A2.vcf`](https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/samples/CYP1A2.vcf)
+- [`samples/AHR.vcf`](https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/samples/AHR.vcf)
+- [`samples/ADORA2A.vcf`](https://github.com/jaliil-9/Caffedict---SNP-Variants-Analysis-Flutter-App-/blob/master/samples/ADORA2A.vcf)
 
 ## About the Developer
 
