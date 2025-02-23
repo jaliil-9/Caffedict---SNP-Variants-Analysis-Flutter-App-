@@ -10,7 +10,7 @@
 
 ## Overview
 
-Caffedict is a proof-of-concept mobile application, developed as an experiment and potential showcase that integrates genetics knowledge and machine learning techniques to provide insights into caffeine metabolism based on SNP variants analysis. Developed using Flutter, it utilizes a deep learning model to analyze well-documented SNP variants in the **CYP1A2, AHR,** and **ADORA2A** genes, offering users feedbacks and recommendations on caffeine intake, timing, and sensitivity management.
+Caffedict is a proof-of-concept mobile application, developed as an experiment and potential showcase that integrates genetics knowledge with machine learning techniques to provide insights into caffeine metabolism based on SNP variants analysis. Developed using Flutter, it utilizes a machine learning model to analyze well-documented SNP variants in the **CYP1A2, AHR,** and **ADORA2A** genes, offering users feedbacks and recommendations on caffeine intake, timing, and sensitivity management.
 
 You can download the app and try it from this [Drive Link](https://drive.google.com/file/d/1oIX1TCQ2qlgCZyQuZPy-TNOsdKMA0gwn/view), or explore its UI and features below:
 
