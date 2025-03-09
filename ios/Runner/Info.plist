@@ -60,5 +60,7 @@
 		<string>This app needs access to photo library to update profile picture</string>
 		<key>NSCameraUsageDescription</key>
 		<string>This app needs access to camera to update profile picture</string>
+		<key>MinimumOSVersion</key>
+		<string>13.0</string>
 	</dict>
 </plist>
