@@ -4,7 +4,18 @@ use_frameworks!
 use_modular_headers!
 
 target 'Runner' do
-  flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
+  # This is the directory where Flutter creates the iOS framework and podspecs
+  pod 'Flutter', :path => '../flutter/ephemeral'
+  
+  # Plugin pods
+  # Add any other plugins you use here
+  # Example: pod 'package_info', :path => '.symlinks/plugins/package_info/ios'
+  
+  # Scan the plugins directory to find installed plugins
+  Dir.glob('../.symlinks/plugins/**/ios').each do |plugin_dir|
+    plugin_name = File.basename(File.dirname(plugin_dir))
+    pod plugin_name, :path => "../.symlinks/plugins/#{plugin_name}/ios"
+  end
 end
 
 post_install do |installer|
